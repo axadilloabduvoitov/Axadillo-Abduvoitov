@@ -35,16 +35,20 @@
 <div align="center">
 
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=axadilloabduvoitov
-&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00F5A0&icon_color=00B4D8" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=axadilloabduvoitov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00F5A0&icon_color=00B4D8" />
 
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axadilloabduvoitov
-&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00F5A0" />
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axadilloabduvoitov&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00F5A0" />
+
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Habibulo&theme=tokyonight&hide_border=true&background=080B16&ring=00F5A0&fire=00B4D8" />
+
+<img src="https://streak-stats.demolab.com?user=axadilloabduvoitov&theme=tokyonight&hide_border=true&background=080B16&ring=00F5A0&fire=00B4D8" />
+
 
 </div>
 
