@@ -38,7 +38,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Axadillo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00F5A0&icon_color=00B4D8" />
 
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habibulo&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00F5A0" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axadillo&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=00F5A0" />
 
 <br/><br/>
 
